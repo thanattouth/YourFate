@@ -165,7 +165,7 @@ public class MainActivity extends AppCompatActivity {
             // *** สำคัญ! ต้องเรียกบน UI Thread ***
             runOnUiThread(() -> {
                 // สร้างข้อความใหม่
-                String title = "ใบที่ " + result.number;
+                String title = "number " + result.number;
                 String message = result.message; // <--- สมมติว่า strings.xml ไม่มี "ใบที่ X"
 
                 DialogHelper.showFortuneDialog(
