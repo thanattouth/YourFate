@@ -1,5 +1,18 @@
 <resources>
-    <string name="app_name">เซียมซี</string>
-    <string name="draw">ดึงเซียมซี</string>
-    <string name="shake">เขย่า (ทดสอบ)</string>
+    <string name="app_name">YourFate</string> <string name="GameName">YourFate</string>
+    <string name="imageDes">siam_jar</string>
+    <string name="command">Shake for Your Fate</string>
+
+    <string-array name="fortunes_array">
+        <item>การงานราบรื่นดี จะมีคนคอยช่วยเหลือเกื้อกูล</item>
+        <item>การเงินช่วงนี้อาจติดขัดเล็กน้อย ขอให้อดทนและประหยัด</item>
+        <item>สุขภาพแข็งแรงดี ไม่มีอะไรน่าห่วง แต่จงอย่าประมาท</item>
+        <item>ความรักสดใส คนโสดมีเกณฑ์พบคนถูกใจในเร็ววัน</item>
+        <item>ระวังอุบัติเหตุเล็กน้อยจากการเดินทางไกล</item>
+        <item>จะได้ลาภลอยจากผู้ใหญ่ที่เคารพนับถือ</item>
+        <item>สิ่งที่มุ่งหวังไว้ จะสำเร็จดังใจในไม่ช้า</item>
+        <item>ช่วงนี้พูดจาอะไรต้องระวัง อาจมีคนเข้าใจผิดได้ง่าย</item>
+        <item>ให้หมั่นทำบุญ อุทิศส่วนกุศล แล้วชีวิตจะดีขึ้น</item>
+        <item>โชคกำลังจะเข้าข้างคุณ เตรียมตัวรับข่าวดีได้เลย!</item>
+    </string-array>
 </resources>
